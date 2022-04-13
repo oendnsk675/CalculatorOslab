@@ -1,6 +1,7 @@
 # Calculator App
 
 A simple calculator application, which I made to practice my understanding of using the Kotlin language and layouting in making applications in android studio
+
 ![enter image description here](https://github.com/oendnsk675/CalculatorOslab/blob/master/ss.jpg?raw=true)
 
 ## Running the Project
