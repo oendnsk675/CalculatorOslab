@@ -9,4 +9,4 @@ A simple calculator application, which I made to practice my understanding of us
 1. git clone https://github.com/oendnsk675/CalculatorOslab.git or just download the zip file, on code button and than download zip :)
 2. open the project in android studio
 3. make sure the target device is active, if using a mobile phone as the output run of the project make sure the device is readable in android studio
-
+4. and than run device, or using (**shift + f10**)
